@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="72.869">
+    <testcase classname="Flipkart menu Feature" name="Validating the menu option" time="72.537">
+        <system-out><![CDATA[Given User should be logged into the homepage7..............................passed
+When User clicks on Mobiles symbol Button...................................passed
+And User clicks on desired model here we are clicking Samsung model Button..passed
+And User selects desired model here we are selecting SAMSUNG Galaxy F12 model.passed
+And The new Child Window opens..............................................passed
+And User clicks on add to cart Button.......................................passed
+And User clicks on Buy now Button...........................................passed
+Then The the Buy now Product page is displayed..............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
